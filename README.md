@@ -1,4 +1,4 @@
-### sup!
+### Hi there 🌊
 
 I'm currently working on adding security layers in financial systems
 
