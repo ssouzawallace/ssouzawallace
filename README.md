@@ -7,5 +7,5 @@ I'm currently learning how to be a better professional
 I'm looking to collaborate on free open source projects
 
 I'm looking for help with:
-- [Blocks Programming](https://github.com/ssouzawallace/blocks-programming) [100% C#]
+- [Blocks Programming](https://github.com/ssouzawallace/blocks-programming) [C# 100.0%]
 - [Azure Pipelines](https://github.com/ssouzawallace/azure-pipelines-tasks)
