@@ -6,7 +6,7 @@ I used to compete in Robotics. Won 1st place at RoboCup in 2011, a competition o
 I'm looking for help with:
 - [Logo (programming language)](https://en.wikipedia.org/wiki/Logo_(programming_language))
 - [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
-- [Simple Engligh Wikipedia, the free encyclopedia](https://simple.wikipedia.org/wiki/Logo_(programming_language)
+- [Simple Engligh Wikipedia, the free encyclopedia](https://simple.wikipedia.org/wiki/Logo_(programming_language))
 - [Blocks Programming](https://github.com/ssouzawallace/blocks-programming)
 - [This MadMachine, SwiftIO](https://github.com/madmachineio/SwiftIO)
 - [Grow my YouTube Channel](https://www.youtube.com/channel/UCZPrgtR2obUmAN2vQz4zzTQ)
