@@ -14,5 +14,6 @@ I'm looking for help with:
 - [Get more followers. Twitch channel](https://www.twitch.tv/seugostooso)
 
 https://instagram.com/seugostooso
+https://instagram.com/pity_pantera
 
 <font size="100*100*100*100">🌊</font>
