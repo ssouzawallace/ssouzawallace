@@ -13,7 +13,6 @@ I'm looking for help with:
 - [Grow my YouTube Channel](https://www.youtube.com/channel/UCZPrgtR2obUmAN2vQz4zzTQ)
 - [Get more followers. Twitch channel](https://www.twitch.tv/seugostooso)
 
-https://instagram.com/seugostooso
-https://instagram.com/pity_pantera
+[Instagram](https://instagram.com/seugostooso)
 
 <font size="100*100*100*100">🌊</font>
