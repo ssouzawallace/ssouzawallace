@@ -4,6 +4,11 @@ I'm a Software Engineer. I studied at [UNICAMP](https://www.unicamp.br). I own t
 I work mostly with mobile, IOT, cooking and, occasionally, gardening.
 I used to compete in Robotics. Won 1st place at RoboCup in 2011, a competition organized by _RoboCup Federation_.
 
+Apps Published in the Apple App Store.:
+Zebec
+LocAlarm
+Senolop
+
 I'm looking for help with:
 - [Logo (programming language)](https://en.wikipedia.org/wiki/Logo_(programming_language))
 - [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
