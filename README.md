@@ -19,6 +19,6 @@ I'm looking for help with:
 - [Get more followers. Twitch channel](https://www.twitch.tv/seugostooso)
 - [HUMMINGBIRD Projects](https://learn.birdbraintechnologies.com/hummingbirdduo/projects)
 
-[Instagram](https://instagram.com/seugostooso)
+[Instagram](https://instagram.com/wallawonka_)
 
 <font size="100*100*100*100">🌊</font>
