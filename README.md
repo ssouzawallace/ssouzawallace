@@ -1,3 +1,5 @@
+<img alt="image" src="https://github.com/user-attachments/assets/f90acbaa-25e0-4bb2-820c-ab9c26118612" />
+
 # Hi there 👋
 
 I'm a **Software Engineer** who studied at [UNICAMP](https://www.unicamp.br). I work mostly with mobile development, IoT, cooking, and occasionally gardening.
