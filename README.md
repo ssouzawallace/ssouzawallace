@@ -88,7 +88,3 @@ A SwiftUI iPhone app to help you build and maintain healthy sleep habits.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/walla_wonka)
 
 </div>
-
----
-
-<div align="center">🌊 <em>coding from the coast</em> 🌊</div>
