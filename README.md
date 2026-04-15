@@ -42,6 +42,22 @@ I'm the creator of the one and only [Senolop — Nike Calculator for iOS](https:
 
 ---
 
+## 🌙 SleepWell — Healthy Sleep Habits (iOS)
+
+A SwiftUI iPhone app to help you build and maintain healthy sleep habits.
+
+**Features:**
+- **Schedule** — Set a personalised bedtime and wake time with daily local notifications (wind-down, bedtime, and wake-up reminders)
+- **Habits** — Daily checklist of 10 evidence-based sleep habits that resets automatically each morning
+- **Tips** — Expandable sleep-science articles covering light, diet, exercise, and routine
+- **Log** — Rate each night's sleep quality (1–5 stars) and track hours slept, with running averages
+
+**Tech:** Swift 5, SwiftUI, MVVM, `UserNotifications`, `UserDefaults`  
+**Minimum iOS:** 16.0  
+**Project:** [`SleepWell/`](./SleepWell)
+
+---
+
 ## 🔭 Interests & Projects
 
 - 🐢 [Logo (programming language)](https://en.wikipedia.org/wiki/Logo_(programming_language)) · [Logo Foundation](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
