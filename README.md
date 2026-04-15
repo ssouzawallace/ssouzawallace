@@ -6,7 +6,7 @@
 
 # Hi there, I'm Wallace 👋
 
-**Software Engineer · Mobile · IoT · Robotics · 🌱 Gardening · 🍳 Cooking**
+👨‍💻 **Software Engineer · 📱 Mobile · 🖲️ IoT · 🤖 Robotics · 🌱 Gardening · 🍳 Cooking**
 
 </div>
 
