@@ -3,7 +3,12 @@
 </div>
 
 <div align="center">
+  <img width="8000" height="4500" alt="profusion_background_Prancheta 1 cópia 7" src="https://github.com/user-attachments/assets/64406c5d-259d-41e9-b200-cffa88492828" />
+</div>
 
+<div align="center">
+</div>
+  
 # Hi there, I'm Wallace 👋
 
 👨‍💻 **Software Engineer · 📱 Mobile · 🖲️ IoT · 🤖 Robotics · 🌱 Gardening · 🍳 Cooking**
