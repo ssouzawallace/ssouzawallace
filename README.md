@@ -1,12 +1,13 @@
-<div align="center">
-  <img alt="profile banner" src="https://github.com/user-attachments/assets/f90acbaa-25e0-4bb2-820c-ab9c26118612" />
-</div>
-
-<div align="center">
-  <img width="8000" height="4500" alt="profusion_background_Prancheta 1 cópia 7" src="https://github.com/user-attachments/assets/64406c5d-259d-41e9-b200-cffa88492828" />
-</div>
-
-<div align="center">
+<div align="center" width="8000" alt="" type="card">
+  <div align="center" height="4500" alt="" flex="horizontal">
+    <div align="center">
+    <img alt="profusion_background_Prancheta 1 cópia 7" src="https://github.com/user-attachments/assets/64406c5d-259d-41e9-b200-cffa88492828" />
+    </div>
+    <div align="center">
+    <img alt="profile banner" src="https://github.com/user-attachments/assets/f90acbaa-25e0-4bb2-820c-ab9c26118612" />
+  </div>
+  </div>
+  
 </div>
   
 # Hi there, I'm Wallace 👋
