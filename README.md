@@ -1,15 +1,3 @@
-<div align="center" width="8000" alt="" type="card">
-  <div align="center" height="4500" alt="" flex="horizontal">
-    <div align="center">
-    <img alt="profusion_background_Prancheta 1 cópia 7" src="https://github.com/user-attachments/assets/64406c5d-259d-41e9-b200-cffa88492828" />
-    </div>
-    <div align="center">
-    <img alt="profile banner" src="https://github.com/user-attachments/assets/f90acbaa-25e0-4bb2-820c-ab9c26118612" />
-  </div>
-  </div>
-  
-</div>
-  
 # Hi there, I'm Wallace 👋
 
 👨‍💻 **Software Engineer · 📱 Mobile · 🖲️ IoT · 🤖 Robotics · 🌱 Gardening · 🍳 Cooking**
@@ -19,8 +7,6 @@
 ---
 
 Studied at [UNICAMP](https://www.unicamp.br). I work mostly with **mobile development** and **IoT**, and I also happen to enjoy gardening and cooking.
-
-I'm the creator of the one and only [Senolop — Nike Calculator for iOS](https://github.com/ssouzawallace/senolop) and co-creator of [BR-GoGo](https://br-gogo.sourceforge.net).
 
 🏆 I used to compete in Robotics — won **1st place at RoboCup in 2011**, organized by the _RoboCup Federation_.
 
@@ -42,25 +28,9 @@ I'm the creator of the one and only [Senolop — Nike Calculator for iOS](https:
 
 | App | Description |
 |-----|-------------|
-| **Zebec** | 📦 Published on the App Store |
-| **LocAlarm** | 📍 Location-based alarm app |
-| **[Senolop](https://github.com/ssouzawallace/senolop)** | 👟 Nike Calculator for iOS |
-
----
-
-## 🌙 SleepWell — Healthy Sleep Habits (iOS)
-
-A SwiftUI iPhone app to help you build and maintain healthy sleep habits.
-
-**Features:**
-- **Schedule** — Set a personalised bedtime and wake time with daily local notifications (wind-down, bedtime, and wake-up reminders)
-- **Habits** — Daily checklist of 10 evidence-based sleep habits that resets automatically each morning
-- **Tips** — Expandable sleep-science articles covering light, diet, exercise, and routine
-- **Log** — Rate each night's sleep quality (1–5 stars) and track hours slept, with running averages
-
-**Tech:** Swift 5, SwiftUI, MVVM, `UserNotifications`, `UserDefaults`  
-**Minimum iOS:** 16.0  
-**Project:** [`SleepWell/`](./SleepWell)
+| **Zebec** | Published on the App Store |
+| **LocAlarm** | Location-based alarm app |
+| **Senolop** | RPN Calculator for iOS |
 
 ---
 
