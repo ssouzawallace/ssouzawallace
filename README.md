@@ -17,7 +17,9 @@
 ![ssouzawallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssouzawallace&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssouzawallace&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>---
+</div>
+
+---
 
 Studied at [UNICAMP](https://www.unicamp.br). I work mostly with **mobile development** and **IoT**, and I also happen to enjoy gardening and cooking.
 
