@@ -10,6 +10,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![ssouzawallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssouzawallace&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssouzawallace&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>---
+
 Studied at [UNICAMP](https://www.unicamp.br). I work mostly with **mobile development** and **IoT**, and I also happen to enjoy gardening and cooking.
 
 > 🏆 **RoboCup 2011 Champion** — Won **1st place** at [RoboCup](https://www.robocup.org/), organized by the _RoboCup Federation_.
@@ -67,17 +76,6 @@ Studied at [UNICAMP](https://www.unicamp.br). I work mostly with **mobile develo
 - 🧱 [Blocks Programming](https://github.com/ssouzawallace/blocks-programming)
 - ⚡ [MadMachine SwiftIO](https://github.com/madmachineio/SwiftIO)
 - 🐦 [HUMMINGBIRD Projects](https://learn.birdbraintechnologies.com/hummingbirdduo/projects)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![ssouzawallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssouzawallace&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssouzawallace&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
