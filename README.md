@@ -91,18 +91,30 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 | **LocAlarm** | Location-based alarm app — set alarms triggered by your GPS location |
 | **Senolop** | RPN (Reverse Polish Notation) Calculator for iOS |
 
+
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![blocks](./profile/pin-blocks.svg)](https://github.com/ssouzawallace/blocks)
-[![appia-design-system](./profile/pin-appia.svg)](https://github.com/ssouzawallace/appia-design-system)
+![](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/overview.svg)
+![](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/languages.svg)
 
 </div>
 
+
 ---
+
+## 🚀 Featured repos
+
+<!-- START: REPO-PINS -->
+[![profile-icons/blocks pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/ssouzawallace/rick-and-morty-characters) [![profile-icons/blocks pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ssouzawallace/blocks)
+[![profile-icons/rick-and-morty-characters pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/ssouza/) [![profile-icons/rick-and-morty-characters pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ssouzawallace/rick-and-morty-characters)
+[![profile-icons/cats pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/sosuzawallace/cats) [![profile-icons/cats pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ssouzawallace/cats) 
+<!-- END: REPO-PINS -->
+
+--- 
 
 ## 🔭 Interests & Side Projects
 
@@ -113,16 +125,6 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![ssouzawallace's GitHub stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
