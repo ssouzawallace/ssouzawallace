@@ -1,4 +1,4 @@
-name: gen-repo-pins
+name: Update README gen-repo-pins
 
 on:
   schedule:
@@ -14,16 +14,24 @@ jobs:
     steps:
       - uses: profile-icons/github-profile-repo-pins@v1
         with:
-          gh_api_token: ${{ secrets.GH_API_TOKEN || secrets.GITHUB_TOKEN }}  # default fallback
-          gh_username: ${{ secrets.GH_USERNAME || github.repository_owner }}  # default fallback
-          theme: ${{ secrets.THEME }}  # optional
-          background_image: ${{ secrets.BG_IMG }}  # optional
-          num_repo_pins: ${{ secrets.NUM_REPO_PINS }}  # optional
-          repo_pin_order: ${{ secrets.REPO_PIN_ORDER }}  # optional
-          repo_names_exclusive: ${{ secrets.REPO_NAMES_EXCLUSIVE }}  # optional
-          is_exclude_repos_owned: ${{ secrets.IS_EXCLUDE_REPOS_OWNED }}  # optional
-          is_exclude_repos_contributed: ${{ secrets.IS_EXCLUDE_REPOS_CONTRIBUTED }}  # optional
-          is_contribution_stats: ${{ secrets.IS_CONTRIBUTION_STATS }}  # optional
-          is_i18n: ${{ secrets.IS_TRANSLATE }}  # optional
-          is_nllb: ${{ secrets.IS_NLLB }}  # optional
-          hf_token: ${{ secrets.HF_TOKEN }}  # optional
+          # A credential, so it stays a secret.
+          gh_api_token: ${{ secrets.GH_API_TOKEN || secrets.GITHUB_TOKEN }}
+
+          # Everything below is public configuration and is deliberately inline.
+          # Sourcing it from secrets printed every value as "***" in the run log,
+          # so the failure on 2026-09-17 could say a value was malformed without
+          # showing which one or what it held.
+          gh_username: ${{ github.repository_owner }}
+
+          # One comma-separated string, each entry "owner/repo". Spaces, newlines
+          # and an empty entry from a trailing comma are all rejected - that is
+          # what "must be in a single string and separated by commas" is checking.
+          # The list also fixes the pin count, so num_repo_pins and repo_pin_order
+          # are left out: the action ignores both once this input is set.
+          repo_names_exclusive: "ssouzawallace/blocks,ssouzawallace/Rick-and-Morty-Characters,ssouzawallace/cats,ssouzawallace/senolop,ssouzawallace/appia-design-system"
+
+          # is_exclude_repos_owned, is_exclude_repos_contributed,
+          # is_contribution_stats, is_i18n, is_nllb and hf_token are omitted
+          # rather than wired to secrets. The action reads any non-empty value as
+          # true, so a secret holding the text "false" switches the flag on.
+          # Omitted is off, and that is the behaviour this profile wants.

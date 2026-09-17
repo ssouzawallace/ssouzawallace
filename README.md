@@ -98,9 +98,8 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/overview.svg)
-![](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/languages.svg)
-
+![](https://github.com/ssouzawallace/github-stats-mod/blob/generated/overview.svg)
+![](https://github.com/ssouzawallace/github-stats-mod/blob/generated/languages.svg)
 </div>
 
 
@@ -109,9 +108,10 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 ## 🚀 Featured repos
 
 <!-- START: REPO-PINS -->
-[![profile-icons/blocks pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/ssouzawallace/rick-and-morty-characters) [![profile-icons/blocks pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ssouzawallace/blocks)
-[![profile-icons/rick-and-morty-characters pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/ssouza/) [![profile-icons/rick-and-morty-characters pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ssouzawallace/rick-and-morty-characters)
-[![profile-icons/cats pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/sosuzawallace/cats) [![profile-icons/cats pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ssouzawallace/cats) 
+[![ssouzawallace/blocks pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/ssouzawallace/blocks) 
+[![ssouzawallace/rick-and-morty-characters pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/ssouzawallace/rick-and-morty-characters) 
+[![ssouzawallace/cats pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/ssouzawallace/cats)
+[![ssouzawallace/appia-design-system pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/ssouzawallace/appia-design-system)
 <!-- END: REPO-PINS -->
 
 --- 
