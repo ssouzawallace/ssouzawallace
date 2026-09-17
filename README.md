@@ -77,7 +77,7 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 | | |
 |---|---|
 | **[Profusion](https://profusion.mobi)** | Software Engineer _(current)_ — building platforms for research institutions & healthcare |
-| **Apple App Store** | Published 3 apps independently |
+| **[Apple App Store](https://www.apple.com/br/app-store/)** | Published 3 apps independently |
 | **[UNICAMP](https://www.unicamp.br/)** | B.Sc. in Computer Science, University of Campinas |
 | **[RoboCup 2011](https://web.archive.org/web/20140313014540/http://www.robocup2011.org/en/)** | 1st place — autonomous robotics competition |
 
