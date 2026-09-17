@@ -22,7 +22,7 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 |---------|-------------|-------|
 | **[FAPESP](https://fapesp.br/)** | Equipment sharing platform for São Paulo Research Foundation — heading to **beta launch** | Next.js, Prisma, Oracle Cloud, Auth.js |
 | **[Freeya](https://freeya.com/)** | Cross-platform mobile app with shared business logic | SwiftUI (iOS), Kotlin (Android), GraphQL |
-| **Appia Design System** | Component library for AppiaCare | Design tokens, component architecture |
+| **[Appia Design System](https://github.com/ssouzawallace/appia-design-system)** | Component library for AppiaCare | Design tokens, component architecture |
 
 ---
 
