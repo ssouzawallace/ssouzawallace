@@ -89,7 +89,7 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 |-----|-------------|
 | **Zebec** | Music streaming and discovery app for iOS |
 | **LocAlarm** | Location-based alarm app — set alarms triggered by your GPS location |
-| **Senolop** | RPN (Reverse Polish Notation) Calculator for iOS |
+| **[Senolop](https://github.com/ssouzawallace/senolop)** | RPN (Reverse Polish Notation) Calculator for iOS |
 
 
 ---
