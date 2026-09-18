@@ -108,10 +108,9 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 ## 🚀 Featured repos
 
 <!-- START: REPO-PINS -->
-[![ssouzawallace/blocks pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/ssouzawallace/blocks) 
-[![ssouzawallace/rick-and-morty-characters pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/ssouzawallace/rick-and-morty-characters) 
-[![ssouzawallace/cats pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/ssouzawallace/cats)
-[![ssouzawallace/appia-design-system pin img](https://raw.githubusercontent.com/r055a/r055a/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/ssouzawallace/appia-design-system)
+[![blocks pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/ssouzawallace/blocks) [![Rick-and-Morty-Characters pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ssouzawallace/Rick-and-Morty-Characters) 
+[![cats pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/ssouzawallace/cats) [![senolop pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/ssouzawallace/senolop) 
+[![appia-design-system pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/ssouzawallace/appia-design-system) 
 <!-- END: REPO-PINS -->
 
 --- 
