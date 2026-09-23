@@ -10,7 +10,7 @@
 
 ---
 
-Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of experience across **mobile** (iOS, Android, React Native), **full-stack web** (Next.js, React, TypeScript), and **IoT/embedded systems**. [UNICAMP](https://www.unicamp.br) dropout (B.Sc. in Computer Science, B.Eng. in Control and Automation Engineering (Mechatronics)).
+Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of experience across **mobile** (iOS, Android, React Native), **full-stack web** (Next.js, React, TypeScript), and **IoT/embedded systems**. [UNICAMP](https://www.unicamp.br) dropout (B.Eng. in Control and Automation Engineering (Mechatronics) and B.Sc. in Computer Science).
 
 🏆 **RoboCup 2011 Champion** — Won **1st place** at [RoboCup](https://www.robocup.org/), organized by the _RoboCup Federation_.
 
