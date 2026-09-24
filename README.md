@@ -109,8 +109,7 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 
 <!-- START: REPO-PINS -->
 [![blocks pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/ssouzawallace/blocks) [![Rick-and-Morty-Characters pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ssouzawallace/Rick-and-Morty-Characters) 
-[![cats pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/ssouzawallace/cats) [![senolop pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/ssouzawallace/senolop) 
-[![appia-design-system pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/ssouzawallace/appia-design-system) 
+[![cats pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/ssouzawallace/cats) [![appia-design-system pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/ssouzawallace/appia-design-system) 
 <!-- END: REPO-PINS -->
 
 --- 
