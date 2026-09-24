@@ -107,10 +107,14 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 
 ## 🚀 Featured repos
 
-<!-- START: REPO-PINS -->
-[![blocks pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/ssouzawallace/blocks) [![Rick-and-Morty-Characters pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ssouzawallace/Rick-and-Morty-Characters) 
-[![cats pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/ssouzawallace/cats) [![appia-design-system pin img](https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/ssouzawallace/appia-design-system) 
-<!-- END: REPO-PINS -->
+<!-- FEATURED-REPOS:START · rebuilt daily from the repo-pins images by .github/scripts/featured_repos.py, so edits here are overwritten -->
+<p>
+<a href="https://github.com/ssouzawallace/blocks"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/0.svg 1x"><source srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/0.svg?full-width 1w"><img src="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/0.svg" alt="blocks"></picture></a>
+<a href="https://github.com/ssouzawallace/Rick-and-Morty-Characters"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/1.svg 1x"><source srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/1.svg?full-width 1w"><img src="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/1.svg" alt="Rick-and-Morty-Characters"></picture></a>
+<a href="https://github.com/ssouzawallace/cats"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg 1x"><source srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg?full-width 1w"><img src="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg" alt="cats"></picture></a>
+<a href="https://github.com/ssouzawallace/appia-design-system"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg 1x"><source srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg?full-width 1w"><img src="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg" alt="appia-design-system"></picture></a>
+</p>
+<!-- FEATURED-REPOS:END -->
 
 --- 
 
